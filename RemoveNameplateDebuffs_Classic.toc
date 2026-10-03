@@ -1,5 +1,5 @@
 ## Interface: 11509,16001,20506,50504
-## X-Wago-ID: Q6aqp76W0
+## X-Wago-ID: Q6aqp76W
 ## Version: v3.3.7-classic.3
 ## RequiredDeps: RGX-Framework
 ## Title: |cffff7d00R|r|cffffffffemove|r |cffff7d00N|r|cffffffffameplate|r |cffff7d00D|r|cffffffffebuffs|r|cffff7d00!|r |cffFFD700(Classic)|r
